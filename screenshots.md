@@ -15,9 +15,11 @@ DETAILED INFO
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_42_52" src="https://github.com/user-attachments/assets/15518f33-8bd0-492e-b3bd-46530d65ea49" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_43_33" src="https://github.com/user-attachments/assets/8af00529-2e8c-401c-ab7c-b0be392bc36c" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_43_54" src="https://github.com/user-attachments/assets/e6041096-8339-42db-b3cc-a7b36e0f433e" />
-
+WINDOWS 10 VM WITH SPLUNK
 <img width="1912" height="1078" alt="Screenshot 2026-05-14 164720" src="https://github.com/user-attachments/assets/41bf40ce-437b-4165-a2a4-22428d64a8c9" />
+KALI VM 
 <img width="1920" height="1080" alt="Screenshot 2026-05-14 164837" src="https://github.com/user-attachments/assets/d2db3b14-727f-4849-9d04-833eab406442" />
+KALI AND WINDOWS 10 VM
 <img width="1920" height="1080" alt="Screenshot 2026-05-14 165018" src="https://github.com/user-attachments/assets/2f39853a-6fb8-4099-b494-9806e8a9c519" />
-
+KALI VM
 <img width="920" height="400" alt="VirtualBox_THANOS _14_05_2026_16_51_03" src="https://github.com/user-attachments/assets/0efa750e-1225-479c-95ff-9f3d0a5dfd51" />
