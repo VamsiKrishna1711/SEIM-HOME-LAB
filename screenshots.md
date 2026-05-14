@@ -4,8 +4,11 @@ FAILED LOGIN DETECTION
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_35_27" src="https://github.com/user-attachments/assets/44754a57-46be-4639-9c88-f733ef154d99" />
 NETWROKS CONNECTIONS / FAILED LOGIN ATTEMPTS
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_36_10" src="https://github.com/user-attachments/assets/75b52b79-fcda-4f8d-9780-52acaf6ad6d2" />
+QUERIES - EVENTCODE=1
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_39_04" src="https://github.com/user-attachments/assets/17e0dab0-127c-44ad-99c3-3806c6fcad63" />
+QUERIES - EVENTCODE=3
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_40_04" src="https://github.com/user-attachments/assets/9d2e6cb7-4ef0-4af6-a3e1-f427890bd9ef" />
+QUERIES - EVENTCODE=
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_40_45" src="https://github.com/user-attachments/assets/ad7b4d63-bb25-4d72-8ba4-20449f005c62" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_41_53" src="https://github.com/user-attachments/assets/1c9323aa-537c-497b-bacb-7535e49b580b" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_42_52" src="https://github.com/user-attachments/assets/15518f33-8bd0-492e-b3bd-46530d65ea49" />
