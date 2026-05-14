@@ -1,3 +1,4 @@
+SOC MONITORING DASHBOARD 
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_33_38" src="https://github.com/user-attachments/assets/898ae7ea-b07b-41aa-862f-3bee8a8ab632" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_35_27" src="https://github.com/user-attachments/assets/44754a57-46be-4639-9c88-f733ef154d99" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_36_10" src="https://github.com/user-attachments/assets/75b52b79-fcda-4f8d-9780-52acaf6ad6d2" />
