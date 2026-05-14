@@ -2,6 +2,7 @@ SOC MONITORING DASHBOARD - PROCESS CREATION EVENTS
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_33_38" src="https://github.com/user-attachments/assets/898ae7ea-b07b-41aa-862f-3bee8a8ab632" />
 FAILED LOGIN DETECTION
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_35_27" src="https://github.com/user-attachments/assets/44754a57-46be-4639-9c88-f733ef154d99" />
+NETWROKS CONNECTIONS / FAILED LOGIN ATTEMPTS
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_36_10" src="https://github.com/user-attachments/assets/75b52b79-fcda-4f8d-9780-52acaf6ad6d2" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_39_04" src="https://github.com/user-attachments/assets/17e0dab0-127c-44ad-99c3-3806c6fcad63" />
 <img width="1024" height="768" alt="VirtualBox_INCE ZANGWILL _14_05_2026_16_40_04" src="https://github.com/user-attachments/assets/9d2e6cb7-4ef0-4af6-a3e1-f427890bd9ef" />
